@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : xxxxx@connect.hku.hk
+  email            : u3604717@connect.hku.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : xxxx
+  linkedin         : jiaqi-liu-0044a5275
   orcid            :
   pinterest        :
   soundcloud       :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu               :
+  zhihu               : liu-jia-qi-10-61
 
 
 # Reading Files
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
